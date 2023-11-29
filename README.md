@@ -1,1 +1,1 @@
-Django Docker AWS
+Django Docker NGINX AWS
